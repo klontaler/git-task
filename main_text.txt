@@ -8,3 +8,7 @@ just in case
 that's a branch's commit
 
 and that's a second branch's commit yk
+
+second branch commit for pull request ts
+
+that's a whole new type of phrase i'm usign rn
